@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 2: December 31, 2016 
+
+**Today's Progress**: not much
+
+**Thoughts:** giggle... i knew it.. life took over today. No excuse, but its NYE fireworks time! Did get the project into GIT and published it to github. project name `ddmachine`
+
 ### Day 1: December 30, 2016 
 
 **Today's Progress**: Set up a `create-react-app` project. Using Webstorm. Refactored directory structure to use react-router. Got a few blank pages wired up.
