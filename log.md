@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 3: January 01, 2017 
+
+**Today's Progress**: added react-bootstrap and reactstrap to ddmachine project
+
+**Thoughts:** Started out the day continuing to read `Test driving javascript applications`. Coded some simple examples. Will incorporate this strategy into ddmachine... writing tests first. Implemented bootstrap and a new navigation using reactstrap library.
+
 ### Day 2: December 31, 2016 
 
 **Today's Progress**: not much
