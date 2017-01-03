@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 4: January 02, 2017 
+
+**Today's Progress**: More TDD / embedding script src into a React app / reactstrap
+
+**Thoughts:**: Found a good free stock charting service [TradingView](https://www.tradingview.com/widget/). Doesn't seem to be a trivial task embedding their provided scripts into my React project. That kinda put a speed bump in my day. Anyhow, I gave up on that for now and implemented a different reactstrap Navbar into the project. Read more of `Test driving javascript applications` ... good stuff. Positive / negative / exception testing.
+
 ### Day 3: January 01, 2017 
 
 **Today's Progress**: added react-bootstrap and reactstrap to ddmachine project
