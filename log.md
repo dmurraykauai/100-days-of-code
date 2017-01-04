@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 5: January 03, 2017 
+
+**Today's Progress**: More experimenting w/ React/Redux
+
+**Thoughts:**: Starting to feel comfortable w/ the React framework. It's quite a mindshift from the old mindset. Venturing into the Redux store functionality using middlewares.
+
 ### Day 4: January 02, 2017 
 
 **Today's Progress**: More TDD / embedding script src into a React app / reactstrap
