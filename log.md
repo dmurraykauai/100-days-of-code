@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started the Javascript 30 program. 
 
-**Thoughts**: Took a break from the React/Redux project and started Wes Bos' #Javascript30 program. Good fun building the Javascript Drum Kit project!
+**Thoughts**: Took a break from the React/Redux project and started Wes Bos' #Javascript30 program. Good fun building the Javascript Drum Kit project! Added my own touches, including a new key/.wav and background image. Deployed to heroku: [Kalihiwai Drum Scene with Foghorn!](https://jsdrumkit.herokuapp.com/index.html)
 
 ###Day 6: January 04, 2017
 
