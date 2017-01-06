@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 7: January 05, 2017
+
+**Today's Progress**: Started the Javascript 30 program. 
+
+**Thoughts**: Took a break from the React/Redux project and started Wes Bos' #Javascript30 program. Good fun building the Javascript Drum Kit project!
+
+###Day 6: January 04, 2017
+
+**Today's Progress**: More Redux / Middleware construction
+
+**Thoughts**: Continuance of day 5's progress. 
+
 ### Day 5: January 03, 2017 
 
 **Today's Progress**: More experimenting w/ React/Redux
