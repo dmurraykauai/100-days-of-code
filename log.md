@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 8: January 06, 2017
+
+**Today's Progress**: Day 2 of Javascript30. Made a clock.
+
+**Thoughts**: Having fun w/ vanilla javascript + css. Interesting. Published yesterday's project to Heroku. Tried it from 3 work computers. 2 of them would not even run the vanilla JS. The other one worked but wouldn't render the imgur background image (websense). Amazing how tight these systems are locked down. Sucks to be me. May continue w/ some React tonight.
+
 ###Day 7: January 05, 2017
 
 **Today's Progress**: Started the Javascript 30 program. 
