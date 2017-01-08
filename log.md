@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 9: January 07, 2017
+
+**Today's Progress**: Day 3 of Javascript30. Worked with vanilla JS and CSS using CSS variables.
+
+**Thoughts**: Short day of coding. Plenty busy with a trip to the north shore. Looking forward to getting into Stephen Grider's 2 new courses on MongoDB and Webpack.
+
 ###Day 8: January 06, 2017
 
 **Today's Progress**: Day 2 of Javascript30. Made a clock.
