@@ -1,5 +1,12 @@
 ## 100 Days Of Code - Log
 
+###Day 10: Januray 08, 2017
+
+**Today's Progress**: Day 4 of Javascript30. Array cardio
+
+**Thoughts**: Solidifying array basics using .filter() .sort() .map() .reduce. 
+Initial build w/ ES5 and working in ES6 as clean up. Got well into section 6 of SGrider's MongoDB course. Kinda elementary so far but picking up things here and there. It's interesting to finally watch someone set up an environment and I'm a little bored! (learning).
+
 ###Day 9: January 07, 2017
 
 **Today's Progress**: Day 3 of Javascript30. Worked with vanilla JS and CSS using CSS variables.
