@@ -1,5 +1,12 @@
 ## 100 Days Of Code - Log
 
+###Day 11: Januray 09, 2017
+
+**Today's Progress**: Day 5 of Javascript30. Flux (css) intro.
+
+**Thoughts**: An hour of #javascript30 working with Flex (css). Framework for a flex panel gallery was provided and added css and javascript to bring the elements to life. Worked more with JS arrays today using a us zip codes .json data. Sorting, filtering... Data manipulation.
+
+
 ###Day 10: Januray 08, 2017
 
 **Today's Progress**: Day 4 of Javascript30. Array cardio
