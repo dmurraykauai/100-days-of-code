@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 12: Januray 10, 2017
+
+**Today's Progress**: Javascript30. Levels 6 and 7
+
+**Thoughts**: #Javascript30 - Did Ajax type ahead using the `fetch` command to get ajax rather than axios or jquery. First I've heard of that. That sunk in well, so I continued onto Array cardio day 2. Used .some() .every() .find() and .findIndex() array methods.  
+
 ###Day 11: Januray 09, 2017
 
 **Today's Progress**: Day 5 of Javascript30. Flux (css) intro.
