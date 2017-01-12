@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 13: Januray 11, 2017
+
+**Today's Progress**: Egghead.io Start Using React to Build Web Applications
+
+**Thoughts**: Went through the first 12 lessons just watching on Chromecast, then rewatched them (pause/play/pause/...pause lol) while coding the examples. Trying to make this stuff 2nd nature. Getting better.
+
 ###Day 12: Januray 10, 2017
 
 **Today's Progress**: Javascript30. Levels 6 and 7
