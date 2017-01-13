@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 14: Januray 12, 2017
+
+**Today's Progress**: Egghead.io Using React to Build Web Applications 13 - 19
+
+**Thoughts**: Continued React course keying in and studying the examples. Played around after commit adding my own things relative to the lesson. Learned a bit... getting it to sink in.
+
 ###Day 13: Januray 11, 2017
 
 **Today's Progress**: Egghead.io Start Using React to Build Web Applications
