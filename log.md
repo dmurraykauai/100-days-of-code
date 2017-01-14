@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 15: Januray 13, 2017 (friday the 13th!)
+
+**Today's Progress**: Finished Egghead.io React course / #Javascript30 lessons 9 and 10
+
+**Thoughts**: More fun w/ #Javascript30 going over Chrome DevTool tricks and multiple checkbox selecting w/ JS. Started using WakaTime plugin for Webstorm. It tracks time spent coding in the editor. 3 hrs 7 mins today so far. May work more w/ my React/Redux project if Friday night gets dull.
+
 ###Day 14: Januray 12, 2017
 
 **Today's Progress**: Egghead.io Using React to Build Web Applications 13 - 19
