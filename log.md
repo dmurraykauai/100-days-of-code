@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 16: Januray 14, 2017
+
+**Today's Progress**: @WakaTime says I coded 2 hours 12 minutes. Started a new create-react-app prototype of ddmachine using the [Conduit app framework here](https://github.com/gothinkster/react-redux-realworld-example-app). 
+
+**Thoughts**: Basically stitching together the ddmachine site by disecting the code and writing a new create-react-app from scratch. Much time in the studying mode but keying it all in is good to get the practice, and I know it sinks in better when you key it in rather than copy/paste. No real site blueprint yet, other than consuming a few free services and scaffolding a good React app. Understanding the scaffolding is a must. 
+
 ###Day 15: Januray 13, 2017 (friday the 13th!)
 
 **Today's Progress**: Finished Egghead.io React course / #Javascript30 lessons 9 and 10
