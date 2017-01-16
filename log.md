@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 17: Januray 15, 2017
+
+**Today's Progress**: @WakaTime says 3:08 logged today. Re-creating said React app from yesterday. Plug in parts and trace the errors. Interesting half focused day. Football day!
+
+**Thoughts**: Just working towards understand the entirety of the React app I'm implementing.
+
 ###Day 16: Januray 14, 2017
 
 **Today's Progress**: @WakaTime says I coded 2 hours 12 minutes. Worked w/ the wakatime api a bit. CORS errors... Started a new create-react-app prototype of ddmachine using the [Conduit app framework here](https://github.com/gothinkster/react-redux-realworld-example-app). 
