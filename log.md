@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 18: Januray 16, 2017
+
+**Today's Progress**: 1:30 working on #Javascript30 HTML5 video player.
+
+**Thoughts**: Fun ... good to have around for a template when a html5 video player might be needed. I actually took the end suggestion to keep going by adding a functional full screen button. 
+
 ###Day 17: Januray 15, 2017
 
 **Today's Progress**: @WakaTime says 3:08 logged today. Re-creating said React app from yesterday. Plug in parts and trace the errors. Interesting half focused day. Football day!
