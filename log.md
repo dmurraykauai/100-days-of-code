@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 19: Januray 17, 2017
+
+**Today's Progress**: 1:14 working with #Javascript30
+
+**Thoughts**: Lessons 12 and 13: Key sequence detection. Worked more with JS event listeners and arrays. Got a solid understanding of the .splice method. .join method as well... converting array values to csv string and analyze. Lesson 13 would slide an image into its space once the page is scrolled half way down into the image's x/y location. Basically worked with image coordinates and css transitions fired on the image objects once scrolling is tracked to a specific region in the Y axis. Interesting!
+
 ###Day 18: Januray 16, 2017
 
 **Today's Progress**: 1:30 working on #Javascript30 HTML5 video player.
