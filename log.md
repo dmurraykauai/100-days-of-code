@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day twenty: Januray 18, 2017
+
+**Today's Progress**: #javascrip30 again for an hour
+
+**Thoughts**: objects and arrays referenced vs copied. Buying more courses than i have brain to shove them into. Todd McLoud's goland webdev course, stephen grider just released 2 new courses. wesbos react course in the cart. Overwhelming myself, but those are my targets.
+
 ###Day 19: Januray 17, 2017
 
 **Today's Progress**: 1:14 working with #Javascript30
