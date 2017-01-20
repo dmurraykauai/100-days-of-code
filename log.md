@@ -2,9 +2,9 @@
 
 ###Day 21: Januray 19, 2017
 
-**Today's Progress**: Flexbox @wesbos course. 
+**Today's Progress**: Flexbox @wesbos course. Then started his React course. 
 
-**Thoughts**:
+**Thoughts**: Wes is a good teacher. Got a grasp on flex. 
 
 ###Day twenty: Januray 18, 2017
 
