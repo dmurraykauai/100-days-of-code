@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 22: Januray 20, 2017
+
+**Today's Progress**: @WakaTime 2:32 #javascript30 local storage and event delegation. Up to lesson 12 w/ @wesbos React course.
+
+**Thoughts**: Javascript30 course was a longer one today... 30 minutes. Learned how to use localStorage and view that output in DevTools. Getting well into the React course by @wesbos. Starting to get more interesting as the prior lessons didn't give anything new (much). 
+
 ###Day 21: Januray 19, 2017
 
 **Today's Progress**: Flexbox @wesbos course. Then started his React course. 
