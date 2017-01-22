@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 23: Januray 21, 2017
+
+**Today's Progress**: Not much today. #Javascript30 lesson 16 today. css text shadow on mouse move. 
+
+**Thoughts**: Typical Saturday. Logged about an hour coding. @wakatime log keeps me accountable :-)
+
 ###Day 22: Januray 20, 2017
 
 **Today's Progress**: @WakaTime 2:32 #javascript30 local storage and event delegation. Up to lesson 12 w/ @wesbos React course.
