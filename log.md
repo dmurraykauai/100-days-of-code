@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 24: Januray 22, 2017
+
+**Today's Progress**: lazy day, but spent a little time w/ #javascript30
+
+**Thoughts**: Busy day in the yard, then guest for dinner. Good day, little pc time :-)
+
 ###Day 23: Januray 21, 2017
 
 **Today's Progress**: Not much today. #Javascript30 lesson 16 today. css text shadow on mouse move. 
