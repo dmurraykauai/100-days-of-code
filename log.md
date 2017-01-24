@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 25: Januray 23, 2017
+
+**Today's Progress**: Monday #javascript30 after work. Read a little #YDKJS
+
+**Thoughts**: Sorting .sort() an array of titles replace()ing out beginning articles such as 'a', 'the', 'an'. Re-read the 'this' section of YDKJS book. 
+
 ###Day 24: Januray 22, 2017
 
 **Today's Progress**: lazy day, but spent a little time w/ #javascript30
