@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 26: Januray 24, 2017
+
+**Today's Progress**: Basic Javascript studies / practice
+
+**Thoughts**: Spent the minimal time (1 hour) going through common Javascript interview questions. Can't go wrong there...
+
 ###Day 25: Januray 23, 2017
 
 **Today's Progress**: Monday #javascript30 after work. Read a little #YDKJS
