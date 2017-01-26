@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 27: Januray 25, 2017
+
+**Today's Progress**: 2:07 @Wakatime - Javascript common interview questions and #Javascript30 
+
+**Thoughts**: Studied and wrote these 3 code examples: https://medium.freecodecamp.com/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb#.d6974a7j0. Event delegation, using a function closure within a loop, and Debouncing / Throttling events such as scroll and resize. #Javascript30 adding up times with reduce(). Taking a list of video play times in <li>'s data-time attributes, throw then all into an array from their nodes. Calculate the seconds, then get the mod% / remainder of seconds, then the remaining seconds from the left over minutes. Gives HH:MM:SS value. 
+
 ###Day 26: Januray 24, 2017
 
 **Today's Progress**: Basic Javascript studies / practice
