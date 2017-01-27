@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 28: Januray 26, 2017
+
+**Today's Progress**: Spent hours today going over Javascript interview questions. 
+
+**Thoughts**: Basically going through several different sites w/ js interview questions and getting those basics straight. 
+
 ###Day 27: Januray 25, 2017
 
 **Today's Progress**: 2:07 @Wakatime - Javascript common interview questions and #Javascript30 
