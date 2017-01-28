@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 29: Januray 27, 2017
+
+**Today's Progress**: #Javascript30 building web cam app w/ filters. More js interview questions review
+
+**Thoughts**: It's actually good to be able to answer a few of these js interview questions and actually know the answer. Still some to learn. JS30 was a fun lesson today. @wakatime 1:04.
+
 ###Day 28: Januray 26, 2017
 
 **Today's Progress**: Spent hours today going over Javascript interview questions. 
