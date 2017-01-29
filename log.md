@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 30: Januray 28, 2017
+
+**Today's Progress**: Some udemy time with Todd McLeod and Anthony Alecia ... golang and javascript
+
+**Thoughts**: Great Saturday. Fun and chores. Little codeing but made it to the table for a cumulative hour.
+
 ###Day 29: Januray 27, 2017
 
 **Today's Progress**: #Javascript30 building web cam app w/ filters. More js interview questions review
