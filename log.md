@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 31: Januray 29, 2017
+
+**Today's Progress**: @wakatime 2:32 - #javascript30 Native speech recognition, then React w/ @wesbos. Chapters 12 and 13, React Router and understanding State. 
+
+**Thoughts**: Lesson 20, native speech recognition was very interesting. I didn't know it was possible. Very cool. Spent like 45 minutes on that. Spent nearly 2 hours w/ the React course. Reviewed the React Router lesson, then spent much time on the State lesson. Very informative. I'll have to go through it again just to nail it down.
+
 ###Day 30: Januray 28, 2017
 
 **Today's Progress**: Some udemy time with Todd McLeod and Anthony Alecia ... golang and javascript
