@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 32: Januray 30, 2017
+
+**Today's Progress**: @wakatime 2:34 - eact w/ @wesbos. Chapters 14 and 17. More working w/ state and props.
+
+**Thoughts**: Interesting course. Moving into using Firebase for data persistence in ch 18. Seeing how all the parent / child component relationships are working and communicating between them with props and state.
+
 ###Day 31: Januray 29, 2017
 
 **Today's Progress**: @wakatime 2:32 - #javascript30 Native speech recognition, then React w/ @wesbos. Chapters 12 and 13, React Router and understanding State. 
