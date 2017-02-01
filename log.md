@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 33: Januray 31, 2017
+
+**Today's Progress**: @wakatime 1 hour minimum. @wesbos React course chapter 18 - 19
+
+**Thoughts**: Persisting state with Firebase and localStorage(). This course keeps getting better and better. Sinking in.
+
 ###Day 32: Januray 30, 2017
 
 **Today's Progress**: @wakatime 2:34 - eact w/ @wesbos. Chapters 14 and 17. More working w/ state and props.
