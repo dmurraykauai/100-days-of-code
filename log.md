@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 35: February 02, 2017
+
+**Today's Progress**: coding on the plane to Portland
+
+**Thoughts**: @wesbos react course; coded through ch 23 and viewed the rest on the plane. Unable to test because no wifi and firebase requires an internet bite. Probably spent 2.5 hours. @wakatime didn't seem to log my time while offline. Hasn't yet anyway.
+
+###Day 34: February 01, 2017
+
+**Today's Progress**: @wakatime 1 hour minimum. @wesbos React course chapter 20
+
+**Thoughts**: Basically soaked in all learned from lessons 1 - 20. 
+
 ###Day 33: Januray 31, 2017
 
 **Today's Progress**: @wakatime 1 hour minimum. @wesbos React course chapter 18 - 19
