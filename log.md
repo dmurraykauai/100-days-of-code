@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 36: February 03, 2017
+
+**Today's Progress**: React course debugging
+
+**Thoughts**: @wakatime 2:22 so far. About to call it a night. Debugging through some react code I butchered during the flight yesterday. removeFromOrder={this.removeSomeOtherDamnObject} Good exercise!
+
 ###Day 35: February 02, 2017
 
 **Today's Progress**: coding on the plane to Portland
