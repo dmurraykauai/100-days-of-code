@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 38: February 05, 2017
+
+**Today's Progress**: React course: Ch 23 and half of 24
+
+**Thoughts**: @wakatime 1:41 - wife's birthday, so went skiing/boarding Schweitzer, then superbowl fun. After logged some quality time reviewing validation with PropTypes, then got half way through the Authentication chapter, using facebook/github/twitter to log into the app we're creating. Interesting... I always wanted to know how to do this. I'll finish this one up tomorrow.
+
+###Day 37: February 04, 2017
+
+**Today's Progress**: React course: animation / ch 22
+
+**Thoughts**: @wakatime 1:04 - spent some quality time working w/ the css transitions in the react app, understanding how they work and tweaking the elements around a bit.
+
 ###Day 36: February 03, 2017
 
 **Today's Progress**: React course debugging
