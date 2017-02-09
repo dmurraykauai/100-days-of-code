@@ -1,5 +1,23 @@
 ## 100 Days Of Code - Log
 
+###Day 41: February 08, 2017
+
+**Today's Progress**: Kocahava interview day
+
+**Thoughts**: Interview went pretty good... no hire, but that's what I expected. It was great overall because I know where they are at and they know where I am at presently. Good chat with the overall manager and got to meet the UI dev team. Great group of people. Maybe there will be an opening in that facet within the next few months. My goal now is to take the knowledge I've been learning and roll it into my own application / portfolio type of presentation. I'm there, I know it. Time to do the do. Onward.
+
+###Day 40: February 07, 2017
+
+**Today's Progress**: anothter light day, home building things while traveling
+
+**Thoughts**: prepping for interview /w Kochava today. Just basically getting my head in order w/ all I've learned in the past several months, trying to prepare to make a good impression, at least. Fingers crossed.
+
+###Day 39: February 06, 2017
+
+**Today's Progress**: light day, home building things while traveling
+
+**Thoughts**: weak day of effort due to traveling and focusing on the new home w/ the contractor. Stumbled upon an awesome youtube https://youtu.be/AslncyG8whg on RxJS w/ Netflix developer. Very interesting stuff. No real IDE time this day, but I think this knowledge counts.
+
 ###Day 38: February 05, 2017
 
 **Today's Progress**: React course: Ch 23 and half of 24
