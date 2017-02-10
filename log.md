@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 42: February 09, 2017
+
+**Today's Progress**: Back to React course
+
+**Thoughts**: Finished lesson 24 / authentication. Reviewed it a bit to let it resonate. Some parts went fast, so the review helps. Have kind of been in a slump, so to speak, due to the fast paced home building situation this week. Much done on that front, but looking forward to spending more time doing this instead of that. 
+
 ###Day 41: February 08, 2017
 
 **Today's Progress**: Kocahava interview day
