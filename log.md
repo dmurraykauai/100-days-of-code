@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 43: February 10, 2017
+
+**Today's Progress**: Trying to deploy React app to `Now`
+
+**Thoughts**: Was able to deploy the app to now.sh initially, but redeploys bring up errors and blows the whole tutorial sequence into the ditch. Something to figure out I suppose. Never heard of 'now' until `now` lol... not going to wrestle w/ this because doesn't seem worth it at this point. Heroku exists, right? Tutorial goes to github deployment, next chapter... will try that I guess.
+
 ###Day 42: February 09, 2017
 
 **Today's Progress**: Back to React course
