@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 45: February 12, 2017
+
+**Today's Progress**: #Javascript30; lesson 22 - Follow along link highlighting
+
+**Thoughts**: Very interesting, using vanilla JS, adding the mouseenter event listener to all anchor tags, then run a function that uses the getBoundingClientRect() function to get the width/height and top/left coords, taking into consideration the scrolling x/y positions when determining the top/left coordinates. Function uses CSS to apply the width/height to the link object when moused over. CSS style is transformed onto the object using this function.
+
+###Day 44: February 11, 2017
+
+**Today's Progress**: Back to #Javascript30; lesson 21 - geolocation based on speedometer and compass
+
+**Thoughts**: This was cool, but pretty much requires a MAC in order to fake the speed properties. I followed along and understood the concepts and keyed in the code.
+
 ###Day 43: February 10, 2017
 
 **Today's Progress**: Trying to deploy React app to `Now`
