@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 46: February 13, 2017
+
+**Today's Progress**: #Javascript30 binge on the flight from Seattle to Lihue. Lessons 22 - 26.#Javascript30; lesson 22 - Follow along link highlighting
+
+**Thoughts**: After almost a week, got back into an honest groove. Perfect time to do so on a 6 hour flight. I think I got in about 4 hours in. Built 2 different menu systems w/ animations. The speech synthesis lesson seems to require an internet connection. Will test my work when can. Sticky nav bar worked out nice, then after a short lesson on event bubbling control, created another cool navbar like used on stripe.com.
+
 ###Day 45: February 12, 2017
 
 **Today's Progress**: #Javascript30; lesson 22 - Follow along link highlighting
