@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 48: February 15, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 47: February 14, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
 ###Day 46: February 13, 2017
 
 **Today's Progress**: #Javascript30 binge on the flight from Seattle to Lihue. Lessons 22 - 26.
