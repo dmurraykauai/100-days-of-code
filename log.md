@@ -8,9 +8,9 @@
 
 ###Day 47: February 14, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Spent an hour customizing the Voiceinator app from the #Javascript30 course
 
-**Thoughts**:
+**Thoughts**: Worked w/ google fonts, changed various colors in CSS and studied the core of the code.
 
 ###Day 46: February 13, 2017
 
