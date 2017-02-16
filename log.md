@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 49: February 16, 2017
+
+**Today's Progress**: #Javascript30 
+
+**Thoughts**:
+
 ###Day 48: February 15, 2017
 
 **Today's Progress**: #Javascript30 Click and drag to scroll lesson.
