@@ -2,9 +2,9 @@
 
 ###Day 48: February 15, 2017
 
-**Today's Progress**: 
+**Today's Progress**: #Javascript30 Click and drag to scroll lesson.
 
-**Thoughts**:
+**Thoughts**: Other than the js30 lesson, I deployed the voiceinator to heroku to share with friends and family. Nearly 3 hours of @wakatime logged. Good day.
 
 ###Day 47: February 14, 2017
 
