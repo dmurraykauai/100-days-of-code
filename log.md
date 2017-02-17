@@ -2,9 +2,9 @@
 
 ###Day 49: February 16, 2017
 
-**Today's Progress**: #Javascript30 
+**Today's Progress**: #Javascript30 Video speed controller and countdown clock
 
-**Thoughts**:
+**Thoughts**: @wakatime 1:30ish. Fun stuff. One more JS30 lesson then I'm shifting to building my own app.
 
 ###Day 48: February 15, 2017
 
