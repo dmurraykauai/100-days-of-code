@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 50: February 17, 2017
+
+**Today's Progress**: Half way throught #100DaysOfCode! Finished #Javascript30!
+
+**Thoughts**: #Javascript30 whack-a-mole game created. Still experimenting with it as far as when the mole disappears when you whack it. Seems to go away too slow. Works that way in the finished example also. Want to add a setting where user can select a skill level and save the high score to localStorage.
+
 ###Day 49: February 16, 2017
 
 **Today's Progress**: #Javascript30 Video speed controller and countdown clock
