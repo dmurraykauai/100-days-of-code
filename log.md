@@ -1,5 +1,29 @@
 ## 100 Days Of Code - Log
 
+###Day 54: February 21, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 53: February 20, 2017
+
+**Today's Progress**: Cont. Stephen Grider graphQL course.
+
+**Thoughts**: UP to chapter 22. Created a third data structure called 'sports', along with 'users' and 'companie'. Got it all wired up correctly except when querying it straight on the sports node, comes up as null. I'll have to figure that out....
+
+###Day 52: February 19, 2017
+
+**Today's Progress**: Cont. Stephen Grider graphQL course.
+
+**Thoughts**: More graphQL set up and querying. Using the GraphiQL tool. Running the json server on port 3000 while the node server runs on 4000 simultaneously. 
+
+###Day 51: February 18, 2017
+
+**Today's Progress**: Stephen Grider graphQL course.
+
+**Thoughts**: Got into this course. Very interesting... learning how graphql solves the data at REST problem w/ complicated relationship binding / joining. 
+
 ###Day 50: February 17, 2017
 
 **Today's Progress**: Half way throught #100DaysOfCode! Finished #Javascript30!
