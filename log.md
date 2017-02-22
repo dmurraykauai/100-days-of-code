@@ -8,7 +8,7 @@
 
 ###Day 54: February 21, 2017
 
-**Today's Progress**: More on GraphQL course
+**Today's Progress**: More on GraphQL course - @Wakatime 2+ hours
 
 **Thoughts**: Made it through section 4 and 5 and began section 6. Practiced writing mutations (insert, delete, update user). Non Null field usage. Learned about Apollo and Relay. Relay is complex and thrives over mobile working w/ large data sets. Facebook's tool of choice. Too complex for this course so author is using Apollo. Got the lyrical project ready to work with.
 
