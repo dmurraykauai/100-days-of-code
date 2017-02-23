@@ -2,9 +2,9 @@
 
 ###Day 55: February 22, 2017
 
-**Today's Progress**: 
+**Today's Progress**: GraphQL course 1:35 @wakatime
 
-**Thoughts**: 
+**Thoughts**: Sections 6, 7 and started 8. Set up MongoLab db and set up the schema. Set up Apollo client in a React framework. Bonding GraphQL queries with React components. Added in React Router and created a record. Query variables in GraphiCL are the next step. 
 
 ###Day 54: February 21, 2017
 
