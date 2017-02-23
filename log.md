@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 56: February 23, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 ###Day 55: February 22, 2017
 
 **Today's Progress**: GraphQL course 1:35 @wakatime
