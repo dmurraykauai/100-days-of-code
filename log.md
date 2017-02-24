@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
-###Day 56: February 23, 2017
+###Day 57: February 24, 2017
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+###Day 56: February 23, 2017
+
+**Today's Progress**: Continued GraphQL course 2:30 @wakatime
+
+**Thoughts**: Made it through Section 9 / lesson 56. More fetching data and mutations. Refetching queries after mutations. Associating mutations with React components. I have an idea for a side project based on this framework. Simply, mongodb w/ 2 collections: Ski Resorts and ski runs for those resorts. It could branch out from there. Interesting to me I think...lol.
 
 ###Day 55: February 22, 2017
 
