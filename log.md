@@ -2,15 +2,15 @@
 
 ###Day 59: February 26, 2017
 
-**Today's Progress**: 
+**Today's Progress**: 1 hour on the GraphQL course
 
-**Thoughts**:
+**Thoughts**: Got through the first 8 lessons of section 12. Setting up authoriazation w/ Passport and weaving GraphQL into it using the "coupled approach". GrpahQL goes to Passport for authentication. 
 
 ###Day 58: February 25, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Big flop, but I got many chores done!
 
-**Thoughts**: 
+**Thoughts**: Didn't make it to the keyboard enough to even count time this Saturday. Knocked out some chores.
 
 ###Day 57: February 24, 2017
 
