@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 60: February 27, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
 ###Day 59: February 26, 2017
 
 **Today's Progress**: 1 hour on the GraphQL course
