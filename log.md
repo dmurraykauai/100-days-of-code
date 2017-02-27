@@ -1,16 +1,22 @@
 ## 100 Days Of Code - Log
 
+###Day 59: February 26, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
 ###Day 58: February 25, 2017
-
-**Today's Progress**: Finished GraphQL sections 10 and 11 / lesson 74. 2:27 @wakatime
-
-**Thoughts**: Basically finished up the Lyrics app. Implemented the code to add lyrics for any song object, then add a like button for each lyric. Excited to move on to section 12 where we're building a GraphQL / React app framework mostly from scratch, with authentication.
-
-###Day 57: February 24, 2017
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+###Day 57: February 24, 2017
+
+**Today's Progress**: Finished GraphQL sections 10 and 11 / lesson 74. 2:27 @wakatime
+
+**Thoughts**: Basically finished up the Lyrics app. Implemented the code to add lyrics for any song object, then add a like button for each lyric. Excited to move on to section 12 where we're building a GraphQL / React app framework mostly from scratch, with authentication.
 
 ###Day 56: February 23, 2017
 
