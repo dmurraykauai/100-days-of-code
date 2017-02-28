@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
-###Day 60: February 27, 2017
+###Day 61: February 28, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 60: February 27, 2017
+
+**Today's Progress**: GraphQL course lessons 83 - 100
+
+**Thoughts**: Almost done. 2 more hours should do it. Integrating graphQL layer in between react and node/mongodb. Going forward w/ this stack to build a lil project...
 
 ###Day 59: February 26, 2017
 
