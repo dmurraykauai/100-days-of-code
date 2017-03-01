@@ -12,11 +12,11 @@
 
 **Thoughts**: The course didn't actually end... there's more to come. Odd the last lesson wasn't quite buttoned up. Next plan:
 Settle on a project idea and go forward with it! 
--- ddmachine.com remake.
--- Using Grider's Lyrical app base, create "AmeriSlopes" which is a social graph of ski resorts in the US and assoicated runs on said mountain. Users can like a mountain, a run on that mountain, post photos of that run, leave comments / stories. 
+- ddmachine.com remake.
+- Using Grider's Lyrical app base, create "AmeriSlopes" which is a social graph of ski resorts in the US and assoicated runs on said mountain. Users can like a mountain, a run on that mountain, post photos of that run, leave comments / stories. 
 
 Use combination of Wes Bos React course and tie in the GraphQL to it. Use Node/Express for the server side.
--- React, Redux, React Router, GraphQL, Apollo, Node.js / Express, MongoLab
+- React, Redux, React Router, GraphQL, Apollo, Node.js / Express, MongoLab
 
 ###Day 60: February 27, 2017
 
