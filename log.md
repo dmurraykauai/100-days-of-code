@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
-###Day 62: March 1, 2017
+###Day 63: March 2, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 62: March 1, 2017
+
+**Today's Progress**: Paused and reviewed much learned in the past 60 days.
+
+**Thoughts**: Reviewed various code tutorials I've done over the past several months. Making a decision to build an application and have decided to use React / GraphQL / Mongo on Node/Express server. Going to build the 'Amerislopes' app that somewhat mirrors the Lyrical app in Stephen Grider's graphql course. First goal is to start w/ the graphql authentication template framework and integrate in the Lyrical app pieces, but rework the assets on the premise of "mountains and slopes/runs" in place of the "Songs / Lyrics to songs" idea. Onward!
 
 ###Day 61: February 28, 2017
 
