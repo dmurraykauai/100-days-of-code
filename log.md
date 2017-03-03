@@ -2,9 +2,9 @@
 
 ###Day 63: March 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Decent amount of work done integrating the Lyrical app into the Auth framework shell.
 
-**Thoughts**:
+**Thoughts**: Got the Server assets migrated together. Client assets are migrated for the most part, but receiving a run time error. Will look at that later. 
 
 ###Day 62: March 1, 2017
 
