@@ -1,5 +1,23 @@
 ## 100 Days Of Code - Log
 
+###Day 65: March 5, 2017
+
+**Today's Progress**: Decent progress w/ the app error today.
+
+**Thoughts**: Figured out that the route to create a new mountain/resort was the culprit. In MountainCreate.js I took the gql mutation into a separate file (mutations/AddMountain.js). My mistake was setting the mutation to const. (const mutation = ....). Should have been export default gql``;.<sigh> 
+
+###Day 64: March 4, 2017
+
+**Today's Progress**: Lost yesterday but got busy today.
+
+**Thoughts**: Spent about 2 hours or more on the app. A bit of a GIT review today. Worked towards resolving a run time error where the graphQL couldn't be processed. No resolution yet.
+
+###Day 64: March 3, 2017
+
+**Today's Progress**: nothing. Birthday
+
+**Thoughts**: Got to hang out with Barrett on north shore yesterday
+
 ###Day 63: March 2, 2017
 
 **Today's Progress**: Decent amount of work done integrating the Lyrical app into the Auth framework shell.
