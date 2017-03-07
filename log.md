@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 66: March 6, 2017
+
+**Today's Progress**: Revistied Grider's advanced react course to get the scoop on using passport.js w/ jwt. 
+
+**Thoughts**: 1:43 @wakatime ... just experimenting w/ authentication. The graphQL course was half baked w/ the passport authentication. The adv React Redux course is the answer. Review.
+
 ###Day 65: March 5, 2017
 
 **Today's Progress**: Decent progress w/ the app error today.
