@@ -1,5 +1,29 @@
 ## 100 Days Of Code - Log
 
+###Day 70: March 10, 2017
+
+**Today's Progress**: Going through learngraphql.com course to review.
+
+**Thoughts**: Reviewed yesterday's lessons a bit, then completed the course. 
+
+###Day 69: March 9, 2017
+
+**Today's Progress**: Going through learngraphql.com course to review.
+
+**Thoughts**: Getting a sharper knowledge of graphql querying. Not difficult and should become 2nd nature through practice and repetition.
+
+###Day 68: March 8, 2017
+
+**Today's Progress**: Final lessons of graphql course dropped 
+
+**Thoughts**: Happy to have @stegrider drop the last few lessons that wrapped up the authentication part and how to tie it into the router to restrict specific pages to logged in users. Before they dropped I tried to complete it myself, and did great up until the point where a HOC was required, and the router specific settings.
+
+###Day 67: March 7, 2017
+
+**Today's Progress**: Integration of redux into graphql course model
+
+**Thoughts**: Tried to integrate @stegrider's advanced react/redux structure w/ the graphql model from that course. This is going to take some time to figure out. Redux integration.
+
 ###Day 66: March 6, 2017
 
 **Today's Progress**: Revistied Grider's advanced react course to get the scoop on using passport.js w/ jwt. 
