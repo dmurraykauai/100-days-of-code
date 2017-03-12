@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 72: March 12, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+###Day 71: March 11, 2017
+
+**Today's Progress**: Light day, much yard work.
+
+**Thoughts**: Worked w/ the graphql course a bit.
+
 ###Day 70: March 10, 2017
 
 **Today's Progress**: Going through learngraphql.com course to review.
