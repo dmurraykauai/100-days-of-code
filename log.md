@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
-###Day 72: March 12, 2017
+###Day 73: March 13, 2017
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
+
+###Day 72: March 12, 2017
+
+**Today's Progress**: Marination in GraphQL things
+
+**Thoughts**: Spent the minimal hour digesting more GraphQL things, namely how it integrates in w/ Redux. 
 
 ###Day 71: March 11, 2017
 
