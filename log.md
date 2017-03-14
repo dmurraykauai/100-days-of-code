@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 74: March 14, 2017
+
+**Today's Progress**: Spent time looking into new framework
+
+**Thoughts**:
+
 ###Day 73: March 13, 2017
 
 **Today's Progress**: Spent time looking into new framework
