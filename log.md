@@ -2,9 +2,9 @@
 
 ###Day 73: March 13, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Spent time looking into new framework
 
-**Thoughts**:
+**Thoughts**: (https://github.com/scalable-react/scalable-react-boilerplate) - Supports react/redux including Apollo/GraphQL. Interesting framework!
 
 ###Day 72: March 12, 2017
 
