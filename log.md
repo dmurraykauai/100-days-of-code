@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
+###Day 75: March 15, 2017
+
+**Today's Progress**: Read the Redux Thunk github readme, refreshing what the funk thunk is actually for. 
+
+**Thoughts**: A thunk is a function that wraps an expression to delay its evaluation. This is where middleware comes into the react redux situation. 
+
 ###Day 74: March 14, 2017
 
-**Today's Progress**: Spent time looking into new framework
+**Today's Progress**: Studied react router v4 on Egghead.io new course
 
-**Thoughts**:
+**Thoughts**: Was looking through react router code within some existing projects and seeing all types of methodologies. When I saw Wes Bos' router code it looked to be the oddball, but I see he's using straight v4 code. I attempted to modify my Amerislopes router code to v4 but it wouldn't work out. More trial and error since that's the way to figure it out.
 
 ###Day 73: March 13, 2017
 
