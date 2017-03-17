@@ -1,5 +1,17 @@
 ## 100 Days Of Code - Log
 
+###Day 77: March 17, 2017
+
+**Today's Progress**:  
+
+**Thoughts**:
+
+###Day 76: March 16, 2017
+
+**Today's Progress**: Worked more on converting to React Router v4 in Amerislopes app
+
+**Thoughts**: Got a bit stuck on where hashHistory was being used. Will pick up tomorrow.
+
 ###Day 75: March 15, 2017
 
 **Today's Progress**: Read the Redux Thunk github readme, refreshing what the funk thunk is actually for. 
