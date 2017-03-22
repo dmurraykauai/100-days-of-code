@@ -1,10 +1,22 @@
 ## 100 Days Of Code - Log
 
-###Day 77: March 17, 2017
+###Day 79: March 22, 2017
 
-**Today's Progress**:  
+**Today's Progress**: 
 
 **Thoughts**:
+
+###Day 78: March 21, 2017
+
+**Today's Progress**: Skipped the whole weekend. Completely consumed painting the home interior.
+
+**Thoughts**: Back on track today going over the new Webstorm features in 2017 version. Diagram view is awesome as it shows file relations within the app you're building. Found an interesting app using graphql / react by one of Grider's students. https://github.com/dhruv-kumar-jha/productivity-frontend. Spent a fair amount of time setting this up locally and exploring the code structure. 
+
+###Day 77: March 17, 2017
+
+**Today's Progress**: Further explored using materialize w/ React
+
+**Thoughts**: Short day of exploring Materialize for React. Decent I guess. Ant looks good also. So many choices...
 
 ###Day 76: March 16, 2017
 
