@@ -20,9 +20,9 @@
 
 ###Day 80: March 23, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Material-UI integration into Amerislopes branch
 
-**Thoughts**:
+**Thoughts**: Giving Material-UI a chance... looking like a good option so far. Created a git branch for this experiment and moving forward. Ant is another idea / option. We'll see.
 
 ###Day 79: March 22, 2017
 
