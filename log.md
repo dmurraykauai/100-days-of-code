@@ -1,10 +1,34 @@
 ## 100 Days Of Code - Log
 
-###Day 79: March 22, 2017
+###Day 83: March 26, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 82: March 25, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 81: March 24, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 80: March 23, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 79: March 22, 2017
+
+**Today's Progress**: worked w/ Webstorm 2017 new features
+
+**Thoughts**: Love the diagram feature that shows the connections between files. Really helpful. I think I'm dumping the materialize ux/ui method. Looking at Material-UI for React now. 
 
 ###Day 78: March 21, 2017
 
