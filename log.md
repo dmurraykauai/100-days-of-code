@@ -14,9 +14,9 @@
 
 ###Day 81: March 24, 2017
 
-**Today's Progress**: 
+**Today's Progress**: More exploring Material-UI
 
-**Thoughts**:
+**Thoughts**: Spent about an hour going over the Material-UI api options and getting the gist of it. Looking very good!
 
 ###Day 80: March 23, 2017
 
