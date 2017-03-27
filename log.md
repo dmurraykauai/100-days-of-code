@@ -1,16 +1,22 @@
 ## 100 Days Of Code - Log
 
-###Day 83: March 26, 2017
+###Day 84: March 27, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 83: March 26, 2017
+
+**Today's Progress**: Up in Kokee off the grid. Reading / Udemy
+
+**Thoughts**: Read some of my Reactive programming with RxJs. Also reviewed some of Grider's redux course lessons on Udemy saved to my phone.
 
 ###Day 82: March 25, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Up in Kokee off the grid. Reading / Udemy
 
-**Thoughts**:
+**Thoughts**: Read some of my Reactive programming with RxJs. Also reviewed some of Grider's redux course lessons on Udemy saved to my phone.
 
 ###Day 81: March 24, 2017
 
