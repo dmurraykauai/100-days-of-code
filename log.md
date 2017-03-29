@@ -1,10 +1,22 @@
 ## 100 Days Of Code - Log
 
-###Day 84: March 27, 2017
+###Day 86: March 29, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 85: March 28, 2017
+
+**Today's Progress**: Material-UI exploration w/ the Amerislopes app
+
+**Thoughts**: I think I like the material-ui option rather than materialize outright. I'm going to give it a shot as the main UI backbone for the Amerislopes app. Found a wiki page w/ all the US slopes, so need to harvest that data somehow.
+
+###Day 84: March 27, 2017
+
+**Today's Progress**: Hectic Monday at work for a change. Painting at home.
+
+**Thoughts**: Lame day again... Will make up the hour in the next few days.
 
 ###Day 83: March 26, 2017
 
