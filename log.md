@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
+###Day 87: March 30, 2017
+
+**Today's Progress**: Reactstrap usage and implementing its navbar into Amerislopes
+
+**Thoughts**: Started a Reactstrap-navbar branch and got the NavBar component working but routing is screwed up. Converted all hashHistory to BrowserHistory and the links to login / sign up are jacked. I like the path I'm on but currently in a situation w/ it. Tomorrow!
+
 ###Day 86: March 29, 2017
 
-**Today's Progress**: 
+**Today's Progress**: worked with material-ui, reactstrap and some slope data
 
-**Thoughts**:
+**Thoughts**: Got some material-ui working w/ the AmeriSlopes app. The introduced Reactstrap. I think I can use pieces of both for the design. Got some slope data from wikipedia and have a doc w/ data that can be imported into mongodb. Want to try to wire up graphql to accept the new data fields and import it that way.
 
 ###Day 85: March 28, 2017
 
