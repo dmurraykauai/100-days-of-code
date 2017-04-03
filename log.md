@@ -1,5 +1,29 @@
 ## 100 Days Of Code - Log
 
+###Day 91: April 03, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 90: April 02, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 89: April 01, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+###Day 88: March 31, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
 ###Day 87: March 30, 2017
 
 **Today's Progress**: Reactstrap usage and implementing its navbar into Amerislopes
