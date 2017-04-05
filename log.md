@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 93: April 05, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
 ###Day 92: April 04, 2017
 
 **Today's Progress**: Built simple XML tag parser using SAX and SAXPath
