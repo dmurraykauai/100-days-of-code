@@ -1,28 +1,35 @@
 ## 100 Days Of Code - Log
 
+###Day 92: April 04, 2017
+
+**Today's Progress**: Built simple XML tag parser using SAX and SAXPath
+
+**Thoughts**: Used node and sax / saxpath to pull some data fields from a large xml file (work related). Too bad node.js isn't allowed at work lol. I guess there has to be a way to do the same w/ Visual Studio and C# but that's no fun...
+
 ###Day 91: April 03, 2017
 
-**Today's Progress**: 
+**Today's Progress**: got reactstrap navbar component links to work with react-router 3. Not documented? Stackoverflow ftw! lol
 
-**Thoughts**:
+**Thoughts**: Found a stackoverflow post that showed how to do just this:
+<NavLink tag={Link} to="/mountainlist"> ... The tag and to props replace the documented "href" tag. Makes sense because a href requires a page refresh while the other way is for SPA's.
 
 ###Day 90: April 02, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Amerislopes work and much house work (painting).
 
-**Thoughts**:
+**Thoughts**: Slack day but did something.
 
 ###Day 89: April 01, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Amerislopes work and much house work (painting).
 
-**Thoughts**:
+**Thoughts**: Slack day but did something.
 
 ###Day 88: March 31, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Amerislopes work and much house work (painting).
 
-**Thoughts**:
+**Thoughts**: Slack day but did something.
 
 ###Day 87: March 30, 2017
 
