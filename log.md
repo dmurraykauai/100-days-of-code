@@ -1,10 +1,16 @@
 ## 100 Days Of Code - Log
 
-###Day 93: April 05, 2017
+###Day 94: April 06, 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
+
+###Day 93: April 05, 2017
+
+**Today's Progress**: Dabbled in react native a bit
+
+**Thoughts**: found a decent tutorial on react native. Went over how react and redux works, which was a good review for me.
 
 ###Day 92: April 04, 2017
 
