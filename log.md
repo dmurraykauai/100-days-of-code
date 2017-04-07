@@ -2,9 +2,9 @@
 
 ###Day 94: April 06, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Used bootstrap 4 to style Amerislopes a bit
 
-**Thoughts**:
+**Thoughts**: Was having trouble using the react-select library for the 'add a resort' page. It is geared for more complex situations. This select is just vanilla, so had to research some bootstrap 4 styles to pretty up the page a bit. I really spin my wheels when designing w/ css.
 
 ###Day 93: April 05, 2017
 
