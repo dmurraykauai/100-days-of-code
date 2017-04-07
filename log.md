@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+###Day 95: April 07, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 ###Day 94: April 06, 2017
 
 **Today's Progress**: Used bootstrap 4 to style Amerislopes a bit
