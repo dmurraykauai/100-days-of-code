@@ -1,10 +1,28 @@
 ## 100 Days Of Code - Log
 
-###Day 95: April 07, 2017
+###Day 98: April 10, 2017
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
+
+###Day 97: April 09, 2017
+
+**Today's Progress**: Amerislopes webpack tinkering
+
+**Thoughts**: minimal time spent. busy with house.
+
+###Day 96: April 08, 2017
+
+**Today's Progress**: Amerislopes routing
+
+**Thoughts**: minimal time spent. busy with house.
+
+###Day 95: April 07, 2017
+
+**Today's Progress**: Amerislopes design
+
+**Thoughts**: minimal time spent. busy with house.
 
 ###Day 94: April 06, 2017
 
