@@ -1,10 +1,22 @@
 ## 100 Days Of Code - Log
 
+###Day 100: April 12, 2017
+
+**Today's Progress**: Wow, I actually completed this! Spending day reflecting on this log and where I've come from and where I'm at.
+
+**Thoughts**: I'd like to maybe write a medium blog article on this journey. Met good twitter friends and learnd a lot!
+
+###Day 99: April 11, 2017
+
+**Today's Progress**: more with react router 4 
+
+**Thoughts**: 1 more day?!!
+
 ###Day 98: April 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**: more with react router 4 and implementing it into a create-react-app app. EggheadIO course on this as well.
 
-**Thoughts**:
+**Thoughts**: Getting close!
 
 ###Day 97: April 09, 2017
 
